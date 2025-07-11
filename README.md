@@ -38,7 +38,7 @@ I'm a **Full-Stack Software Engineer** based in the UK — passionate about buil
 ### 📬 Let’s Connect
 
 - 🌐 [hazeem.dev](https://hazeem.dev)  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/abdulhazeem-adenekan))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulhazeem-adenekan) 
 - 📫 Reach me via: `hazeem4877@gmail.com`
 
 ---
