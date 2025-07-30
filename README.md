@@ -53,7 +53,7 @@ I'm a **Full-Stack Software Engineer** based in London, UK — passionate about 
 - Database optimization and caching
 - **Tech**: Node.js, Express.js, MySQL, Redis, Docker
 
-#### 🏠 [**Naijaways Global Services**](https://github.com/Hazeem01/naijaways) — Property Management Platform
+#### 🏠 [**Naijaways Global Services**]() — Property Management Platform
 *Full Stack • Property Management • Payment Integration*
 - Property listing and management system
 - Payment processing and booking system
