@@ -32,7 +32,7 @@ I'm a **Full-Stack Software Engineer** based in London, UK — passionate about 
 
 ### 🎯 Featured Projects
 
-#### 🤖 [**Jobsilo**](https://github.com/Hazeem01/Jobsilo) — AI-Powered Recruitment Platform
+#### 🤖 [**Jobsilo**](https://github.com/Hazeem01/jobsilo-FE) — AI-Powered Recruitment Platform
 *Full Stack • AI & ML • Real-time Communication*
 - AI-driven job matching and candidate screening
 - Real-time chat and video conferencing
@@ -46,7 +46,7 @@ I'm a **Full-Stack Software Engineer** based in London, UK — passionate about 
 - Multi-platform streaming support
 - **Tech**: Node.js, FFmpeg, Socket.IO, React, AWS
 
-#### 🔧 [**BC Plus Backend**](https://github.com/Hazeem01/bc-plus-backend) — Scalable API Platform
+#### 🔧 [**BC Plus Backend**](https://bcplusnews.com) — Scalable API Platform
 *Backend • API Development • Microservices*
 - RESTful APIs for news and content management
 - Authentication and authorization system
@@ -60,7 +60,7 @@ I'm a **Full-Stack Software Engineer** based in London, UK — passionate about 
 - Admin dashboard and analytics
 - **Tech**: React, Node.js, MySQL, Stripe, AWS
 
-> 🧩 **View all projects** on my [portfolio site](https://abdulhazeem-portfolio.vercel.app)
+> 🧩 **View all projects** on my [portfolio site](https://www.hazeem.dev)
 
 ---
 
