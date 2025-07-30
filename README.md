@@ -75,7 +75,7 @@ I'm a **Full-Stack Software Engineer** based in London, UK — passionate about 
 
 ### 📬 Let's Connect
 
-- 🌐 **[Portfolio](https://abdulhazeem-portfolio.vercel.app)**
+- 🌐 **[Portfolio](https://www.hazeem.dev)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/abdulhazeem-adenekan)**
 - 🐙 **[GitHub](https://github.com/Hazeem01)**
 - 📫 **Email**: `hazeem4877@gmail.com`
